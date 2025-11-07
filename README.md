@@ -12,9 +12,7 @@
 ---
 
 ### 👨‍💻 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
-I’m a passionate IT technician from Copenhagen, Denmark. I love **solving problems, exploring new technologies**, and understanding how hardware and software work together.  
-I’m currently **learning Python**, mastering the fundamentals, and planning to explore other programming languages to expand my skills and confidence.
-
+I’m a passionate IT technician from Copenhagen, Denmark, who loves solving problems, exploring new technologies, and understanding how hardware and software work together. I’m currently learning Python, focusing on mastering the fundamentals, and plan to explore other programming languages to expain my skills and boost my confidence. I’ve had a strong interest in technology for as long as I can remember. I’ve always been curious about how everything is built from the front end to the back end—which is why I decided to study IT and turn my passion into a career.
 ---
 
 ### 🔥 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼
