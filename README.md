@@ -12,23 +12,30 @@
 ---
 
 ### 👨‍💻 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
-I’m a passionate IT technician from Copenhagen, Denmark, who loves solving problems, exploring new technologies, and understanding how hardware and software work together. I’m currently learning Python, focusing on mastering the fundamentals, and plan to explore other programming languages to expain my skills and boost my confidence. I’ve had a strong interest in technology for as long as I can remember. I’ve always been curious about how everything is built from the front end to the back end—which is why I decided to study IT and turn my passion into a career.
+I’ve had a strong interest in technology for as long as I can remember. I’ve always been curious about how everything is built from the front end to the back end—which inspired me to study IT and turn my passion into a career.  
+
+I’m a dedicated IT technician from **Copenhagen, Denmark**, who loves **solving problems, exploring new technologies**, and understanding how **hardware and software** work together.  
+
+I’m currently **learning Python**, focusing on mastering the fundamentals, and plan to explore other programming languages to **expand my skills**.  
+
+Beyond programming, I’m deeply interested in **networking, cybersecurity, and embedded systems**, as these areas form the backbone of how technology functions securely and efficiently.
+
 ---
 
 ### 🔥 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼
-All my projects are on **[GitHub](https://github.com/renaskizilkaya)**, where I share my code for others to **review, learn from, and collaborate**.  
+All my projects are available on **[GitHub](https://github.com/renaskizilkaya)**, where I share my work for others to **learn from, review, and collaborate on**.  
 
-Check out some of my favorites:  
-- **Python scripts & automation tools**  
-- **Embedded systems experiments**  
-- **Networking projects**  
+Some of my favorite projects include:  
+- 🐍 **Python scripts & automation tools**  
+- ⚙️ **Embedded systems experiments**  
+- 🌐 **Networking configurations & simulations**  
 
 ---
 
 ### 🌱 𝓒𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰
-- Python 🐍  
-- Networking & Embedded Systems 🌐  
-- Expanding into **JavaScript, C++, and more** as I grow  
+- **Python** 🐍  
+- **Networking & Embedded Systems** 🌐  
+- Expanding into **JavaScript, C++, and more** 🚀  
 
 ---
 
@@ -68,5 +75,5 @@ Check out some of my favorites:
 ---
 
 ### ⚡ 𝓕𝓾𝓷 𝓕𝓪𝓬𝓽
-- I love tinkering with **hardware and embedded systems** 🛠️    
-- Always exploring new ways to **level up my programming skills** 🚀
+- 🧠 I love tinkering with **hardware and embedded systems**  
+- 🚀 Always exploring new ways to **level up my programming skills**  
