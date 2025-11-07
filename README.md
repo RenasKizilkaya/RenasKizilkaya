@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
-I’ve had a strong interest in technology for as long as I can remember. I’ve always been curious about how everything is built from the front end to the back end—which inspired me to study IT and turn my passion into a career.  
+I’ve had a strong interest in technology for as long as I can remember. I’ve always been curious about how everything is built from the front end to the back end which inspired me to study IT and turn my passion into a career.  
 
 I’m a dedicated IT technician from **Copenhagen, Denmark**, who loves **solving problems, exploring new technologies**, and understanding how **hardware and software** work together.  
 
